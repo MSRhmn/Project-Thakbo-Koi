@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+
+.start {
+  padding: 0;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  padding: 30px;
+  max-width: 300px;
+  margin: 25%;
+  color: #0984e3;
+  background: #b8e994;
+  outline: none;
+  border-radius: 15px;
+  border: 3px solid #57606f;
+}
+
+a {
+  text-decoration: none;
+  color: #0984e3;
+}
+
+p {
+  font-weight: 300;
+  margin: 10px;
+  text-transform: uppercase;
+}
+
+input {
+  padding: 10px;
+  text-transform: uppercase;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  background: #f1f2f6;
+}
+input[placeholder="Username"] {
+  margin-bottom: 10px;
+}
+
+#container {
+  background: #D6A2E8;
+  width: 300px;
+  height: 500px;
+  margin: 50px auto;
+  border: 3px solid #57606f;
+  border-radius: 15px;
+}
+
+.host {
+  padding: 10px 15px;
+  margin-top: 120px;
+  margin-bottom: 10px;
+}
+
+.guest {
+  padding: 10px 5px;
+  margin-top: 10px;
+}
+
+.sp {
+  max-width: 100px;
+  margin-left: 32%;
+  text-align: center;
+  color: #0984e3;
+  background: #dfe6e9;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 3px;
+  border-radius: 3px;
+  border: 1px solid #82ccdd;
+}
+
+#container.cl {
+  background: #D6A2E8;
+}
+
+.logform {
+  max-width: 200px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  padding: 30px;
+  background: #ecf0f1;
+  border-radius: 5px;
+}
+
+.form {
+  max-width: 200px;
+  margin: auto;
+}
+
+.log {
+  border: none;
+  border-radius: 5px;
+  width: 200px;
+  padding: 5px;
+  outline: none;
+  text-transform: uppercase;
+  color: #0984e3;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  background: #ccc;
+}
+
+.regform input {
+  color: #0984e3;
+  padding: 5px;
+  text-transform: uppercase;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  background: #f1f2f6;
+}
+
+.sp2 {
+  padding: 15px;
+}
